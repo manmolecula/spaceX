@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80640f72.css",
+    "main.js": "/static/js/main.b25d0628.js",
+    "static/media/background.png": "/static/media/background.a9e6382e99cf1d5dc939.png",
+    "static/media/MuseoSansCyrl300.otf": "/static/media/MuseoSansCyrl300.7ad0ee61438149bf013a.otf",
+    "static/media/MuseoSansCyrl100.otf": "/static/media/MuseoSansCyrl100.c29eba7d6e2b1d5402ce.otf",
+    "static/media/MuseoSansCyrl500.otf": "/static/media/MuseoSansCyrl500.38b1042b7ce602623710.otf",
+    "static/media/MuseoSansCyrl700.otf": "/static/media/MuseoSansCyrl700.6c461ab1f1d617efa626.otf",
+    "static/media/MuseoSansCyrl900.otf": "/static/media/MuseoSansCyrl900.c4cf64bcc497c29ebb69.otf",
+    "static/media/MuseoSansCyrl300.ttf": "/static/media/MuseoSansCyrl300.f55cbd6c72bf488b5c7f.ttf",
+    "static/media/MuseoSansCyrl500.ttf": "/static/media/MuseoSansCyrl500.948ec7de201f332c4e86.ttf",
+    "static/media/MuseoSansCyrl100.ttf": "/static/media/MuseoSansCyrl100.4318e0a1d034eda1c606.ttf",
+    "static/media/MuseoSansCyrl700.ttf": "/static/media/MuseoSansCyrl700.4407722f22c0457d4687.ttf",
+    "static/media/MuseoSansCyrl900.ttf": "/static/media/MuseoSansCyrl900.752e5136a4c0d42b0722.ttf",
+    "static/media/MuseoSansCyrl500.woff": "/static/media/MuseoSansCyrl500.b0bd8398f5ef88ecf252.woff",
+    "static/media/MuseoSansCyrl700.woff": "/static/media/MuseoSansCyrl700.d44c59f0dce3522acf45.woff",
+    "static/media/MuseoSansCyrl300.woff": "/static/media/MuseoSansCyrl300.009af5051e58a1cf5c8c.woff",
+    "static/media/MuseoSansCyrl100.woff": "/static/media/MuseoSansCyrl100.af0499741b08a1533134.woff",
+    "static/media/MuseoSansCyrl900.woff": "/static/media/MuseoSansCyrl900.ca0ba938e3d59e2364fa.woff",
+    "index.html": "/index.html",
+    "main.80640f72.css.map": "/static/css/main.80640f72.css.map",
+    "main.b25d0628.js.map": "/static/js/main.b25d0628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80640f72.css",
+    "static/js/main.b25d0628.js"
+  ]
+}
